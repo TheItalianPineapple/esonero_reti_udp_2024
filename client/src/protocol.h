@@ -23,6 +23,7 @@
 #define ECHOMAX 256       // Longest string to send
 #define MIN_LENGTH 6      // Minimum password length
 #define MAX_LENGTH 32     // Maximum password length
+#define SERVER_ADDR "passwdgen.uniba.it" //Server Ip
 
 // Function prototypes
 void ErrorHandler(char *errorMessage) {
